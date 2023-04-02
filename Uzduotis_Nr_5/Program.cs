@@ -62,22 +62,22 @@ namespace Uzduotis_Nr_5
             Console.WriteLine($"Jūsų vardas {vardas}, o amžius {amzius}");
             Console.WriteLine();
 
-            //Liepkite vartotojui įvesti bet kokį simbolį. Atspausdinkite 3x3 kvadratą iš to simbolio. 
-            //Console.Write("Įveskite simbolį: ");
-            //int simbolis = Console.Read();  
-            //char simbolisSi = Convert.ToChar(simbolis);
-            //Console.Write(simbolisSi);
-            //Console.Write(simbolisSi);
-            //Console.WriteLine(simbolisSi);
-           // Console.Write(simbolisSi);
-            //Console.Write(simbolisSi);
-            //Console.WriteLine(simbolisSi); 
-           // Console.Write(simbolisSi);
-           // Console.Write(simbolisSi);
-           // Console.Write(simbolisSi);
-           // Console.WriteLine();
-            
-      
+            /*Liepkite vartotojui įvesti bet kokį simbolį. Atspausdinkite 3x3 kvadratą iš to simbolio. 
+            Console.Write("Įveskite simbolį: ");
+            int simbolis = Console.Read();  
+            char simbolisSi = Convert.ToChar(simbolis);
+            Console.Write(simbolisSi);
+            Console.Write(simbolisSi);
+            Console.WriteLine(simbolisSi);
+            Console.Write(simbolisSi);
+            Console.Write(simbolisSi);
+            Console.WriteLine(simbolisSi); 
+            Console.Write(simbolisSi);
+            Console.Write(simbolisSi);
+            Console.Write(simbolisSi);
+            Console.WriteLine();
+            */
+
             //Liepkite vartotojui įvesti tris skaičius. Į ekraną išveskite šiuos skaičius ir jų vidurkį. Pvz.: Įvestų skaičių 4, 5, 8 vidurkis: 5,7.
             int trys = 3;
             Console.Write("Įveskite skaičių: ");
